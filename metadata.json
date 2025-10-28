@@ -1,0 +1,5 @@
+{
+  "name": "AI文献助手 (AI Literature Assistant)",
+  "description": "一个使用AI处理文献的网页工具。可以从PDF中提取信息，或从Excel导入数据。支持AI翻译标题和摘要，并能对选定的多篇文献进行综合述评。",
+  "requestFramePermissions": []
+}
